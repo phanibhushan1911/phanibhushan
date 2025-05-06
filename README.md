@@ -28,7 +28,7 @@ This repository is meant for:
 
 **Phani Bhushan**  
 React Developer | Learning enthusiast  
-[LinkedIn](https://www.linkedin.com/in/your-link) | [Portfolio](https://yourportfolio.com) 
+[LinkedIn](linkedin.com/in/agoninaga-phanibhushan-059686355) | [Portfolio](https://yourportfolio.com) 
 
 ## 📫 Contact
 
